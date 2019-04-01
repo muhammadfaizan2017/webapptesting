@@ -17,9 +17,7 @@ namespace webapptesting.Controllers
         {
             ViewBag.Message = "Your application description page.";
             string str = "";
-            string str3 = "";
-
-
+            
             return View();
         }
 
